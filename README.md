@@ -1,16 +1,5 @@
 # Laravel Kit
 
-This repository is a personalized Laravel starter kit:
-
-- Repository: **[github.com/bytenomad23/laravel-kit](https://github.com/bytenomad23/laravel-kit)**
-
-
-<p align="center">
-    <a href="https://youtu.be/VhzP0XWGTC4" target="_blank">
-        <img src="/art/banner.png" alt="Overview Laravel Starter Kit" style="width:70%;">
-    </a>
-</p>
-
 <p>
     <a href="https://github.com/bytenomad23/laravel-kit/actions"><img src="https://github.com/bytenomad23/laravel-kit/actions/workflows/tests.yml/badge.svg" alt="Build Status"></a>
     <a href="https://packagist.org/packages/bytenomad23/laravel-kit"><img src="https://img.shields.io/packagist/dt/bytenomad23/laravel-kit" alt="Total Downloads"></a>
@@ -18,7 +7,7 @@ This repository is a personalized Laravel starter kit:
     <a href="https://packagist.org/packages/bytenomad23/laravel-kit"><img src="https://img.shields.io/packagist/l/bytenomad23/laravel-kit" alt="License"></a>
 </p>
 
-**Laravel Starter Kit** is an ultra-strict, type-safe [Laravel](https://laravel.com) skeleton engineered for developers who refuse to compromise on code quality. This opinionated starter kit enforces rigorous development standards through meticulous tooling configuration and architectural decisions that prioritize type safety, immutability, and fail-fast principles.
+**Laravel Kit** is an ultra-strict, type-safe [Laravel](https://laravel.com) skeleton engineered for developers who refuse to compromise on code quality. This opinionated starter kit enforces rigorous development standards through meticulous tooling configuration and architectural decisions that prioritize type safety, immutability, and fail-fast principles.
 
 ## Why This Starter Kit?
 
