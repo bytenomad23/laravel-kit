@@ -1,6 +1,8 @@
-- Blade (this project) version: **[github.com/nunomaduro/laravel-starter-kit](https://github.com/nunomaduro/laravel-starter-kit)**
-- Inertia & React version: **[github.com/nunomaduro/laravel-starter-kit-inertia-react](https://github.com/nunomaduro/laravel-starter-kit-inertia-react)**
-- Inertia & Vue version: **[github.com/nunomaduro/laravel-starter-kit-inertia-vue](https://github.com/nunomaduro/laravel-starter-kit-inertia-vue)**
+# Laravel Kit
+
+This repository is a personalized Laravel starter kit:
+
+- Repository: **[github.com/bytenomad23/laravel-kit](https://github.com/bytenomad23/laravel-kit)**
 
 
 <p align="center">
@@ -10,10 +12,10 @@
 </p>
 
 <p>
-    <a href="https://github.com/nunomaduro/laravel-starter-kit/actions"><img src="https://github.com/nunomaduro/laravel-starter-kit/actions/workflows/tests.yml/badge.svg" alt="Build Status"></a>
-    <a href="https://packagist.org/packages/nunomaduro/laravel-starter-kit"><img src="https://img.shields.io/packagist/dt/nunomaduro/laravel-starter-kit" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/nunomaduro/laravel-starter-kit"><img src="https://img.shields.io/packagist/v/nunomaduro/laravel-starter-kit" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/nunomaduro/laravel-starter-kit"><img src="https://img.shields.io/packagist/l/nunomaduro/laravel-starter-kit" alt="License"></a>
+    <a href="https://github.com/bytenomad23/laravel-kit/actions"><img src="https://github.com/bytenomad23/laravel-kit/actions/workflows/tests.yml/badge.svg" alt="Build Status"></a>
+    <a href="https://packagist.org/packages/bytenomad23/laravel-kit"><img src="https://img.shields.io/packagist/dt/bytenomad23/laravel-kit" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/bytenomad23/laravel-kit"><img src="https://img.shields.io/packagist/v/bytenomad23/laravel-kit" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/bytenomad23/laravel-kit"><img src="https://img.shields.io/packagist/l/bytenomad23/laravel-kit" alt="License"></a>
 </p>
 
 **Laravel Starter Kit** is an ultra-strict, type-safe [Laravel](https://laravel.com) skeleton engineered for developers who refuse to compromise on code quality. This opinionated starter kit enforces rigorous development standards through meticulous tooling configuration and architectural decisions that prioritize type safety, immutability, and fail-fast principles.
@@ -28,7 +30,7 @@ Modern PHP has evolved into a mature, type-safe language, yet many Laravel proje
 - **Fail-Fast Philosophy**: Errors are caught at compile-time, not runtime
 - **Automated Code Quality**: Pre-configured tools ensure consistent, pristine code across your entire team
 - **Bun-Powered**: Leveraging Bun for blazing-fast dependency management...
-- **Just Better Laravel Defaults**: Thanks to **[Essentials](https://github.com/nunomaduro/essentials)** / strict models, auto eager loading, immutable dates, and more...
+- **Just Better Laravel Defaults**: strict models, auto eager loading, immutable dates, and more...
 
 This isn't just another Laravel boilerplate—it's a statement that PHP applications can and should be built with the same rigor as strongly-typed languages like Rust or TypeScript.
 
@@ -39,7 +41,7 @@ This isn't just another Laravel boilerplate—it's a statement that PHP applicat
 Create your type-safe Laravel application using [Composer](https://getcomposer.org):
 
 ```bash
-composer create-project nunomaduro/laravel-starter-kit --prefer-dist example-app
+composer create-project bytenomad23/laravel-kit --prefer-dist example-app
 ```
 
 ### Initial Setup
@@ -95,4 +97,4 @@ You should see 100% test coverage and all quality checks passing.
 
 ## License
 
-**Laravel Starter Kit** was created by **[Nuno Maduro](https://x.com/enunomaduro)** under the **[MIT license](https://opensource.org/licenses/MIT)**.
+**Laravel Kit** is distributed under the **[MIT license](https://opensource.org/licenses/MIT)**.
